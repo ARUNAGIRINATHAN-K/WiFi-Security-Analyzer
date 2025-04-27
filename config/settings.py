@@ -1,0 +1,7 @@
+SCAN_DELAY = 3
+
+REPORTS_FOLDER = "reports/generated_reports"
+
+TYPING_EFFECT_DELAY = 0.03
+
+PASSWORD_MIN_LENGTH = 12
